@@ -8,11 +8,11 @@ import axios from 'axios'
 
 global.owner = [
   ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['6281255369012', 'Memelord', true], 
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "0712155147" //put your bot number here
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
@@ -40,7 +40,7 @@ global.APIs = { // API Prefix
   fgmods: 'https://api-fgmods.ddns.net'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+  // 'https://website': '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'
   'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
   'https://api.neoxr.my.id': `${keysneoxr}`,	
